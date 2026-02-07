@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Prisma generated files
+/src/generated/prisma
+
+# OS
+.DS_Store
+Thumbs.db
+
+# cursor
+.cursorrules
+.cursor/rules
