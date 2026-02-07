@@ -10,6 +10,7 @@ import { PortfolioService } from '../portfolio/portfolio.service';
 import { FavoriteService } from '../favorite/favorite.service';
 import { TInvestService } from '../t-invest/t-invest.service';
 
+
 /**
  * Схема структурированного ответа инвестиционного помощника
  */
